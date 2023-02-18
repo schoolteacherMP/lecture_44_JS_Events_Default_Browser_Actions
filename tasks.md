@@ -1,5 +1,19 @@
 ## Задача 1.   
-### 
+### Почему не работает return false?  
+Почему в коде ниже return false не работает?  
+![image](https://user-images.githubusercontent.com/113675674/219847996-69237944-8be5-4a79-b28d-f5c1b9dc2bc8.png)  
+`<script>`  
+ ` function handler() {`  
+  `  alert( "..." );`  
+   ` return false;`  
+  `}`  
+`</script>`  
+
+`<a href="https://w3.org" onclick="handler()">браузер откроет w3.org</a>`  
+
+Браузер переходит по указанной ссылке, но нам этого не нужно.  
+
+Как поправить?  
 
 ## Задача 2.   
 ### 
