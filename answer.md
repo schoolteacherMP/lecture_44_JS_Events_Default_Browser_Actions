@@ -13,3 +13,12 @@
 Также мы можем использовать event.preventDefault(), например:  
 ![image](https://user-images.githubusercontent.com/113675674/219848171-a907fd06-bbc1-4152-8eb0-3a38cb2f69f2.png)  
 
+
+
+## Задача 2.   
+### Галерея изображений  
+Примеры вариантов решения:  
+![image](https://user-images.githubusercontent.com/113675674/219934182-443fdd81-6992-4a47-803e-4b6e8ac4ddbd.png)  
+
+![image](https://user-images.githubusercontent.com/113675674/219934197-1d16d935-2b35-4acf-83fd-63a6e3bea9d2.png)
+
