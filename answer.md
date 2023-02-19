@@ -20,5 +20,6 @@
 Примеры вариантов решения:  
 ![image](https://user-images.githubusercontent.com/113675674/219934182-443fdd81-6992-4a47-803e-4b6e8ac4ddbd.png)  
 
-![image](https://user-images.githubusercontent.com/113675674/219934197-1d16d935-2b35-4acf-83fd-63a6e3bea9d2.png)
+![image](https://user-images.githubusercontent.com/113675674/219934197-1d16d935-2b35-4acf-83fd-63a6e3bea9d2.png)  
 
+![image](https://user-images.githubusercontent.com/113675674/219934227-b9fb9899-5475-436e-b657-6de8b0423885.png)
