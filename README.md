@@ -1,4 +1,5 @@
 # lecture_44_JS_Events_Default_Browser_Actions  
+
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_44_JS_Events_Default_Browser_Actions/blob/main/tasks.md)  
 
 Действий браузера по умолчанию достаточно много:  
